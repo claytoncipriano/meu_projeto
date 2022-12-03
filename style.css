@@ -7,3 +7,13 @@
 .fonte-02 {
 	font-family: 'Maven Pro', sans-serif;
 }
+
+.fonte-01 {
+    display: flex;
+  justify-content: flex-end;
+  }
+
+.fonte-02  {
+    display: flex;
+  justify-content:center;
+  }
